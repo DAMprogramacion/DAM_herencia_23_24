@@ -1,6 +1,6 @@
 package teoria.introduccion.poligonosRegulares;
 
-public class Hexagono extends PoligonoRegular {
+public class Hexagono extends PoligonoRegular{
     public Hexagono( float longitudLado) {
         super("Hexágono", 6, longitudLado);
     }
